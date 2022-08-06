@@ -38,7 +38,3 @@ I don't know yet..<br>
 
 </p>
 
-<!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=otesic&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otesic&layout=compact&theme=vue&hide_border=true" />
-  
