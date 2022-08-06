@@ -1,11 +1,11 @@
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Park, I wanna be Developer from :kr: Kyeon-gi, Republic of Korea 
+### I am Park, I wanna be Developer from :kr: Kyeong-gi, Republic of Korea 
 
 ### About me
 
-:four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
-:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
+:four_leaf_clover: I’m currently learning Basic Programming skills like Java, HTML, CSS and Javascript.<br/>
+:pencil: Sometimes I write my study contents on [Tistory](https://www.tistroy.com/) <br/> <!-- [Add a links](https://mango2024.tistory.com/)-->
 📫 How to reach me: myEmail@gmail.com <br/>
 
 ### Interest
