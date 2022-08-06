@@ -1,6 +1,6 @@
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
-### I am Park, I wanna be Developer from Kyeong-gi, Republic of Korea <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/62797/south-korea-flag-emoji-clipart-md.png" width="50" height="50"/>
+### I am Park, I wanna be Developer from Gyeong-gi, Republic of Korea <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/62797/south-korea-flag-emoji-clipart-md.png" width="50" height="50"/>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
