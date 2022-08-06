@@ -1,6 +1,6 @@
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Yoo, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
+### I am Park, I wanna be Developer from :kr: Kyeon-gi, Republic of Korea 
 
 ### About me
 
