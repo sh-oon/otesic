@@ -1,6 +1,6 @@
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
-### I am Park, I wanna be Developer from Gyeong-gi, Republic of Korea <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/62797/south-korea-flag-emoji-clipart-md.png" width="50" height="50"/>
+### I am Park, I wanna be FrontEnd Developer from Gyeong-gi, Republic of Korea <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/62797/south-korea-flag-emoji-clipart-md.png" width="50" height="50"/>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
@@ -13,7 +13,7 @@
 ### Interest
 
 <img src="https://media0.giphy.com/media/CaiVJuZGvR8HK/giphy.gif?cid=ecf05e471ygjhk5ozit8w5cuzuods30i3n5ysv8p1l590gxu&rid=giphy.gif&ct=g" width="30" height="30"/><br/>
-I don't know yet..<br>
+React, JavaScript<br>
 
 
 
